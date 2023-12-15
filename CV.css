@@ -1,0 +1,9 @@
+h2 {color : red ; 
+font-size: 12 px ;}
+footer {color : green;
+font-size: 12px ; }
+header ,footer,section,article{
+    border: 1px solid grey;
+    margin: 5px ;
+    padding: 8px;
+}
